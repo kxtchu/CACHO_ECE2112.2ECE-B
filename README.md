@@ -1,6 +1,22 @@
 PA #2
 
-Nathan Josh Cacho
+Author: Nathan Josh Cacho
+
+Overview
+
+This project demonstrates two NumPy-based tasks:
+
+Normalization Problem – creating and normalizing a random matrix.
+
+Divisible by 3 Problem – generating squared numbers, reshaping them into an array, and filtering based on divisibility.
+
+The goal is to practice working with NumPy arrays, perform basic mathematical operations, and save results into files for later use.
+
+Normalization Problem – Create and normalize a random 5×5 array.
+
+Divisible by 3 Problem – Generate squared numbers, reshape into 10×10, and extract values divisible by 3.
+
+Below is how I approached the problems given and integrated into code:
 
 Normalization Problem
 
